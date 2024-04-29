@@ -7,7 +7,7 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="assets/images/Portrait ALD.jpg" alt="">
+			<img class="img-circle" src="/assets/images/Portrait ALD.jpg" alt="">
 			<span class="title">Alexis Le Doussal</span>
 			<span class="tagline">Etudiant en BTS SIO Option SLAM<br>
 				<a href="">ledoussal.alexis@gmail.com</a></span>
