@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<?php include('pages/include/head.php')?>
+<?php include('/pages/include/head.php')?>
 
 <body class="home">
 <header id="header">
