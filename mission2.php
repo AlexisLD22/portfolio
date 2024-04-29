@@ -44,7 +44,7 @@
                 </ul>
 
                 <h3>Avec qui</h3>
-                <p>mission effectuer seul mais avec de l'aide du professeur et des camarades de classe</p>
+                <p>Mission effectuée seul mais avec de l'aide du professeur et des camarades de classe</p>
 
                 <h3>Contexte</h3>
                 <p>

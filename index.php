@@ -10,7 +10,7 @@
 			<img class="img-circle" src="assets/images/Portrait ALD.jpg" alt="">
 			<span class="title">Alexis Le Doussal</span>
 			<span class="tagline">Etudiant en BTS SIO Option SLAM<br>
-				<a href="">ledoussal.alexis@gmail.com</a></span>
+			<a href="">ledoussal.alexis@gmail.com</a></span>
 		</h1>
 	</div>
 	<?php include('pages/include/nav.php') ?>
@@ -32,11 +32,11 @@
 
 			<article class="col-sm-8 maincontent">
 				<h3>Présentation</h3>
-				<p>Je m'appelle Alexis Le Doussal, et je suis passionné d'informatique depuis mon plus jeune âge c'était donc pour moi une évidence de me tourner dans l'informatique pour en faire mon métier. J'ai d'abord commencé en faisant un Bac Professionnel Système Numérique option Réseau Informatique et Système Communicant, que j'ai obtenue avec la mention "Bien". En suite, voulant poussé mon envie de créer, j'ai donc tout naturellement choisit un BTS SIO option SLAM pour découvrir ce monde du développement. Si vous voulez en savoir un peux plus sur mon parcours vous pouvez regarder min CV ci-dessous.</p>
+				<p>Je m'appelle Alexis Le Doussal, et je suis passionné d'informatique depuis mon plus jeune âge c'était donc pour moi une évidence de me tourner dans l'informatique pour en faire mon métier. J'ai d'abord commencé en faisant un Bac Professionnel Système Numérique option Réseau Informatique et Système Communicant, que j'ai obtenus avec la mention "Bien". Ensuite, voulant pousser mon envie de créer, j'ai donc tout naturellement choisit un BTS SIO option SLAM pour découvrir ce monde du développement. Si vous voulez en savoir un peux plus sur mon parcours vous pouvez regarder mon CV ci-dessous.</p>
 				<div>
 					<a href="pages/CV Alexis Le Doussal 2024.pdf" download class="gray-button">
-						<span style="padding: 10px; border: 2px solid #333; border-radius: 0px; background-color: #333; ">
-							<i class="fa fa-regular fa-file" style="color: white;"></i>
+						<span style="padding: 10px; border: 3px solid #333; border-radius: 0px; background-color: #333; border-radius: 2px;">
+							<i class="fa fa-regular fa-file" style="color: white; "></i>
 						</span>
 						<span style="color: #333; margin-left: 10px; font-size: 15px;">Curriculum Vitae</span>
 					</a>

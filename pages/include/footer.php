@@ -5,7 +5,7 @@
             <h3 class="widget-title">Contact</h3>
             <div class="widget-body">
                 <p>+33 07 64 03 46 00<br>
-                    <a href="mailto:#">ledoussal.alexis@gmail.com</a><br>
+                    <a href="mailto:ledoussal.alexis@gmail.com">ledoussal.alexis@gmail.com</a><br>
                     Lorient, 56100
                 </p>	
             </div>
@@ -22,7 +22,13 @@
         </div>
 
         <div class="col-md-3 widget">
-            
+            <h3 class="widget-title">Liens Utiles</h3>
+                <li><a href='index.php'>Home</a></li>
+                <li><a href='bts.php'>BTS</a></li>
+                <li><a href='entreprise.php'>Entreprise</a></li>
+                <li><a href='repertoire.php'>Répertoire</a></li>
+                <li><a href='veille.php'>Veille Technologique</a></li>
+                <li><a href='mention.php'>Mention Légal</a></li>
         </div>
 
         <div class="col-md-3 widget">
@@ -39,15 +45,15 @@
         
         <div class="col-md-6 widget">
             <div class="widget-body">
-                <p>234 Hidden Pond Road, Ashland City, TN 37015 </p>
+                <p>Alexis Le Doussal, France</p>
             </div>
         </div>
 
         <div class="col-md-6 widget">
             <div class="widget-body">
                 <p class="text-right">
-                    Copyright &copy; 2014, Your awesome name here<br> 
-                    Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> </p>
+                    Copyright &copy; 2014<br> 
+                    Design: <a href="https://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> </p>
             </div>
         </div>
 

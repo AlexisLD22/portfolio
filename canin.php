@@ -35,8 +35,8 @@
                 <ul>
                     <li>Création d'un planning de tâches</li>
                     <li>Définition de l'architecture du site</li>
-                    <li>Création d'un Workbench afin de créer la base de donnée MySQL sous PHPMyAdmin</li>
-                    <li>Création de la requête sql pour la création de la base de donnée</li>
+                    <li>Création d'un Workbench afin de créer la base de données MySQL sous PHPMyAdmin</li>
+                    <li>Création de la requête sql pour la création de la base de données</li>
                     <li>Création d'un repository GIT</li>
                     <li>Répartition des tâches au sein de l'équipe</li>
                     <li>Clean du template initial à l'aide de la définition de l'architecture</li>
@@ -56,7 +56,7 @@
                 </ul>
 
                 <h3>Avec qui</h3>
-                <p>Traveau réaliser en mode projet, avec l'aide d'un camarade et de mon professeur</p>
+                <p>Traveau réalisés en mode projet, avec l'aide d'un camarade et de mon professeur</p>
 
                 <h3>Où</h3>
                 <p>

@@ -10,6 +10,7 @@
             <ul class="nav navbar-nav">
                 <li class="active"><a href="index.php">Home</a></li>
                 <li><a href="bts.php">BTS</a></li>
+                <li><a href="entreprise.php">Entreprise</a></li>
                 <!-- <li><a href="about.php">About</a></li> -->
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Compétences<b class="caret"></b></a>

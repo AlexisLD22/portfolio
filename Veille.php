@@ -22,161 +22,103 @@
 															
 				<article class="post">
 					<header class="entry-header">
-						<div class="entry-meta"> 
-							<span class="posted-on"><time class="entry-date published" date="2013-09-27">September 27, 2013</time></span>			
-						</div>
-						<h1 class="entry-title"><a href="single.html" rel="bookmark">Hello world!</a></h1>
+						<h1 class="entry-title">Ma Veille</h1>
 					</header>
 					<div class="entry-content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, molestias, architecto, adipisci, numquam dolor iusto eos reprehenderit placeat quam debitis quas magni eveniet. Saepe, nam, iste consectetur quae necessitatibus dolores provident veritatis possimus rerum facilis quia dicta itaque sapiente iusto natus quidem magni quibusdam. Explicabo nesciunt vel rem obcaecati reprehenderit eveniet culpa repudiandae. Distinctio, quia, provident illum necessitatibus repellendus rem voluptates exercitationem numquam inventore itaque atque sint nihil eveniet consequuntur eius! Laborum, at sit animi quae quidem ex tempora facilis.</p>
+						<p>La veille technologique consiste à se tenir informé des techniques les plus récentes, et surtout de leur disponibilité commerciale
+						(ce qui distingue la technique de la technologie). Cette activité implique l'utilisation de techniques d'acquisition, de stockage et d'analyse d'informations,
+						ainsi que leur distribution automatique aux différentes sections concernées de l'entreprise, de manière similaire à une revue de presse.</p>
+						<p>Pour ce faire, j'ai principalement utilisé des moyens comme google alert, regardé des vidéos sur Youtube sur différents sujets ou encore regardé de moi-même des articles comme <a href='https://www.lemonde.fr'>lemonde.fr</a> ou encore <a href='https://www.futura-sciences.com'>futura-science.com</a>.</p>
 					</div>
 				</article>
- 				
+				<h1 class="entry-title">Thème: Robotique</h1>
  				<article class="post">
 					<header class="entry-header">
- 						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2013-06-17">June 17, 2013</time></span>			
+ 						<div class="entry-meta" style='margin: 0;'> 
+ 							<span class="posted-on"><time class="entry-date published" date="2024-03-14">14 mars 2024</time></span>
+							<p class="posted-on" style='margin: 0;'>Source: <a href='https://www.youtube.com/watch?v=JDbVGYv5X_0' target='_blank'>https://www.youtube.com/watch?v=JDbVGYv5X_0</a></p>			
  						</div> 
- 						<h1 class="entry-title"><a href="single.html" rel="bookmark">Vivamus Lacus Mauris</a></h1>
+ 						<h3 class="title" style='text-align:center;'>Pourquoi ce robot français vaut 50 000 €</h3>
 					</header> 
 					<div class="entry-content"> 
-						<p><img alt="" src="assets/images/mac.jpg"></p>
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus. <a href="single.html" class="more-link">Continue reading&#8230;</a></p>
+						<p style='text-align: center;'><img alt="" src="https://i.ytimg.com/vi/JDbVGYv5X_0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJo8rA1cwdXF_6t7BRz56rsFw_nQ"></p>
+						<p>La vidéo YouTube "Pourquoi ce robot français vaut 50 000 €" présente la solution robotique avancée d'Exotech pour la logistique. Les robots peuvent récupérer des boîtes jusqu'à 12 mètres de haut à une vitesse de 4 mètres par seconde. Conçus pour répondre aux besoins logistiques des grands clients comme Decathlon et Carrefour, ils offrent une flexibilité et une adaptabilité logicielle supérieures. La vidéo explore également l'évolution de l'automatisation des entrepôts et les défis de l'intégration des robots dans les environnements existants. Exotech travaille constamment à améliorer sa technologie, notamment en explorant de nouvelles technologies telles que l'apprentissage automatique et la vision.</p>
 					</div> 
+				</article><!-- #post-## -->
+				<h2 class="section-title"><span></span></h2>						
+				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta" style='margin: 0;'> 
+ 							<span class="posted-on"><time class="entry-date published" date="2024-04-19">19 avril 2024</time></span>
+							<p class="posted-on" style='margin: 0;'>Source: https://www.futura-sciences.com/</p>			
+ 						</div> 
+ 						<h3 class="title" style='text-align:center;'><a style='color:#333;' href='https://www.futura-sciences.com/tech/actualites/technologie-boston-dynamics-reinvente-atlas-regardez-robot-tordre-pivoter-agilite-impressionnante-112950/' target='_blank'>Boston Dynamics réinvente Atlas : regardez le robot se tordre et pivoter avec une agilité impressionnante</a></h3>
+					</header> 
+					<div class="entry-content">
+						<p>Cet article présente une nouvelle avancée de Boston Dynamics avec son robot Atlas. La vidéo montre Atlas démontrant une agilité impressionnante en tordant et pivotant avec fluidité. Cela souligne les progrès remarquables de la robotique dans le domaine de la mobilité et de la manipulation.</p>
+					</div>
 				</article><!-- #post-## -->
 											
 				<article class="post">
 					<header class="entry-header">
- 						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2013-06-17">June 17, 2013</time></span>			
+ 						<div class="entry-meta" style='margin: 0;'> 
+ 							<span class="posted-on"><time class="entry-date published" date="2024-03-22">22 mars 2024</time></span>
+							<p class="posted-on" style='margin: 0;'>Source: https://www.futura-sciences.com/</p>			
  						</div> 
- 						<h1 class="entry-title"><a href="single.html" rel="bookmark">Vivamus Lacus Mauris</a></h1>
+ 						<h3 class="title" style='text-align:center;'><a style='color:#333;' href='https://www.futura-sciences.com/tech/actualites/robotique-cet-exosquelette-universel-adapte-vous-toutes-activites-reglages-grace-ia-112282/' target='_blank'>Cet exosquelette universel s’adapte à vous et à toutes activités sans réglages grâce à l’IA</a></h3>
 					</header> 
-					<div class="entry-content"> 
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus.</p>
-					</div> 
-				</article><!-- #post-## -->
-											
-				<article class="post">
-					<header class="entry-header"> 
-						<div class="entry-meta"> 
-							<span class="posted-on"><time class="entry-date published" date="2013-04-04">April 4, 2013</time></span>			
-						</div>
-						<h1 class="entry-title"><a href="single.html" rel="bookmark">Maecenas Quisque Suspendisse Lorem</a></h1>
-					</header>
 					<div class="entry-content">
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus. <a href="single.html" class="more-link">Continue reading&#8230;</a></p>
+						<p>Cet article met en lumière un exosquelette universel qui s'adapte à diverses activités grâce à l'intelligence artificielle. Il offre une flexibilité remarquable en permettant des réglages personnalisés pour chaque utilisateur. L'utilisation de l'IA permet d'optimiser l'efficacité et le confort de l'exosquelette, ouvrant la voie à de nouvelles possibilités d'assistance physique dans divers domaines.</p>
 					</div>
  				</article><!-- #post-## -->
 											
 				<article class="post">
 					<header class="entry-header">
- 						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2013-03-20">March 20, 2013</time></span>			
- 						</div>
-						<h1 class="entry-title"><a href="single.html" rel="bookmark">Pellentesque Eget Convallis</a></h1>
-					</header>
+ 						<div class="entry-meta" style='margin: 0;'> 
+ 							<span class="posted-on"><time class="entry-date published" date="2024-03-13">13 mars 2024</time></span>
+							<p class="posted-on" style='margin: 0;'>Source: https://www.futura-sciences.com/</p>			
+ 						</div> 
+ 						<h3 class="title" style='text-align:center;'><a style='color:#333;' href='https://www.futura-sciences.com/tech/actualites/robotique-lenovo-devoile-robot-chien-6-pattes-digne-film-science-fiction-112102/' target='_blank'>Lenovo dévoile un robot-chien à 6 pattes digne d'un film de science-fiction</a></h3>
+					</header> 
 					<div class="entry-content">
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus. <a href="single.html" class="more-link">Continue reading&#8230;</a></p>
+						<p>Cet article présente un nouveau robot-chien à six pattes dévoilé par Lenovo. Il évoque les univers de science-fiction avec son design futuriste et ses capacités inhabituelles. Ce robot incarne les avancées technologiques dans le domaine de la robotique, offrant un aperçu des possibilités de création de machines aux capacités impressionnantes.</p>
 					</div>
-				</article><!-- #post-## --> 
+				</article>
+
+				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta" style='margin: 0;'> 
+ 							<span class="posted-on"><time class="entry-date published" date="2023-09-18">18 septembre 2023</time></span>
+							<p class="posted-on" style='margin: 0;'>Source: https://www.futura-sciences.com/</p>			
+ 						</div> 
+ 						<h3 class="title" style='text-align:center;'><a style='color:#333;' href='https://www.futura-sciences.com/tech/actualites/robotique-ce-minuscule-robot-deplace-aisement-grace-explosions-repetees-107746/' target='_blank'>Ce minuscule robot se déplace aisément grâce à des explosions répétées</a></h3>
+					</header> 
+					<div class="entry-content">
+						<p>L'article présente un minuscule robot capable de se déplacer aisément grâce à des explosions répétées. Cette innovation montre comment des méthodes inhabituelles peuvent être utilisées pour la locomotion robotique. Ce robot démontre l'ingéniosité des chercheurs dans le développement de solutions uniques pour les défis de la robotique à petite échelle.</p>
+					</div>
+				</article>
+
+				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta" style='margin: 0;'> 
+ 							<span class="posted-on"><time class="entry-date published" date="2023-10-03">3 octobre 2023</time></span>
+							<p class="posted-on" style='margin: 0;'>Source: https://www.futura-sciences.com/</p>			
+ 						</div> 
+ 						<h3 class="title" style='text-align:center;'><a style='color:#333;' href='https://www.futura-sciences.com/tech/actualites/robotique-start-up-cree-robot-gundam-geant-25-millions-euros-108095/' target='_blank'>Une start-up a créé un robot Gundam géant à 2,5 millions d’euros</a></h3>
+					</header> 
+					<div class="entry-content">
+						<p>Cet article présente une start-up ayant créé un robot Gundam géant avec un financement de 25 millions d'euros. Cette initiative illustre l'ampleur des investissements dans le domaine de la robotique et de la technologie. Le projet met en lumière les avancées spectaculaires dans la construction de robots de grande taille, rappelant les personnages emblématiques de la culture populaire comme Gundam.</p>
+					</div>
+				</article>
 			</div> 
 		</div>
-
-		<center class="">
-			<ul class="pagination">
-				<li class="disabled"><a href="">&laquo;</a></li>
-				<li class="active"><a href="">1</a></li>
-				<li><a href="">2</a></li>
-				<li><a href="">3</a></li>
-				<li><a href="">4</a></li>
-				<li><a href="">5</a></li>
-				<li><a href="">6</a></li>
-				<li><a href="">&raquo;</a></li>
-			</ul>
-		</center>
-	
-
 	</div>	<!-- /container -->
-
 </main>
 
-<footer id="footer" class="topspace">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Contact</h3>
-				<div class="widget-body">
-					<p>+234 23 9873237<br>
-						<a href="mailto:#">some.email@somewhere.com</a><br>
-						<br>
-						234 Hidden Pond Road, Ashland City, TN 37015
-					</p>	
-				</div>
-			</div>
-
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Follow me</h3>
-				<div class="widget-body">
-					<p class="follow-me-icons">
-						<a href=""><i class="fa fa-twitter fa-2"></i></a>
-						<a href=""><i class="fa fa-dribbble fa-2"></i></a>
-						<a href=""><i class="fa fa-github fa-2"></i></a>
-						<a href=""><i class="fa fa-facebook fa-2"></i></a>
-					</p>
-				</div>
-			</div>
-
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Text widget</h3>
-				<div class="widget-body">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
-				</div>
-			</div>
-
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Form widget</h3>
-				<div class="widget-body">
-					<p>+234 23 9873237<br>
-						<a href="mailto:#">some.email@somewhere.com</a><br>
-						<br>
-						234 Hidden Pond Road, Ashland City, TN 37015
-					</p>	
-				</div>
-			</div>
-
-		</div> <!-- /row of widgets -->
-	</div>
-</footer>
-
-<footer id="underfooter">
-	<div class="container">
-		<div class="row">
-			
-			<div class="col-md-6 widget">
-				<div class="widget-body">
-					<p>234 Hidden Pond Road, Ashland City, TN 37015 </p>
-				</div>
-			</div>
-
-			<div class="col-md-6 widget">
-				<div class="widget-body">
-					<p class="text-right">
-						Copyright &copy; 2014, Your awesome name here<br> 
-						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> </p>
-				</div>
-			</div>
-
-		</div> <!-- /row of widgets -->
-	</div>
-</footer>
+<?php include('pages/include/footer.php') ?>
 
 
+<?php include('pages/include/script.php') ?>
 
-<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="assets/js/template.js"></script>
 </body>
 </html>

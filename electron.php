@@ -47,7 +47,7 @@
 				</ul>
 
 				<h3>Avec qui</h3>
-				<p>Traveau réaliser seul et avec l'aide de mon professeur ou de mes camarades</p>
+				<p>Traveau réalisés seul et avec l'aide de mon professeur ou de mes camarades</p>
 
 				<h3>Où</h3>
 				<p>
