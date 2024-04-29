@@ -3,9 +3,16 @@
 
 <?php require('pages/include/head.php') ?>
 
-<body>
+<body class='home'>
 	
-<?php require('pages/include/nav.php') ?>
+<header id="header">
+	<div id="head" class="parallax" parallax-speed="2">
+		<h1 id="logo" class="text-center title">
+		Veille Technologique
+		</h1>
+	</div>
+    <?php require('pages/include/nav.php') ?>
+</header>
 
 <main id="main">
 
