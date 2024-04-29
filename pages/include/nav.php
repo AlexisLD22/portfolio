@@ -23,15 +23,15 @@
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Traveau<b class="caret"></b></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Travaux<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="mission1.php">Traveau n°1</a></li>
-                        <li><a href="mission2.php">Traveau n°2</a></li>
-                        <li><a href="mission3.php">Traveau n°3</a></li>
-                        <li><a href="mission4.php">Traveau n°4</a></li>
-                        <li><a href="mission5.php">Traveau n°5</a></li>
-                        <li><a href="mission6.php">Traveau n°6</a></li>
-                        <li><a href="mission7.php">Traveau n°7</a></li>
+                        <li><a href="mission1.php">Travaux n°1</a></li>
+                        <li><a href="mission2.php">Travaux n°2</a></li>
+                        <li><a href="mission3.php">Travaux n°3</a></li>
+                        <li><a href="mission4.php">Travaux n°4</a></li>
+                        <li><a href="mission5.php">Travaux n°5</a></li>
+                        <li><a href="mission6.php">Travaux n°6</a></li>
+                        <li><a href="mission7.php">Travaux n°7</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
@@ -43,6 +43,7 @@
                     </ul>
                 </li>
                 <li><a href="Veille.php">Veille Technologique</a></li>
+                <li><a href="repertoire.php">Répertoire</a></li>
             </ul>
         
         </div><!--/.nav-collapse -->			

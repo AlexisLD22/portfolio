@@ -35,7 +35,7 @@
 				<p>Je m'appelle Alexis Le Doussal, et je suis passionné d'informatique depuis mon plus jeune âge c'était donc pour moi une évidence de me tourner dans l'informatique pour en faire mon métier. J'ai d'abord commencé en faisant un Bac Professionnel Système Numérique option Réseau Informatique et Système Communicant, que j'ai obtenue avec la mention "Bien". En suite, voulant poussé mon envie de créer, j'ai donc tout naturellement choisit un BTS SIO option SLAM pour découvrir ce monde du développement. Si vous voulez en savoir un peux plus sur mon parcours vous pouvez regarder min CV ci-dessous.</p>
 				<div>
 					<a href="pages/CV Alexis Le Doussal 2024.pdf" download class="gray-button">
-						<span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333; ">
+						<span style="padding: 10px; border: 2px solid #333; border-radius: 0px; background-color: #333; ">
 							<i class="fa fa-regular fa-file" style="color: white;"></i>
 						</span>
 						<span style="color: #333; margin-left: 10px; font-size: 15px;">Curriculum Vitae</span>
@@ -118,7 +118,7 @@
 				</div>
 				
 				<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-					<a class="thumbnail" href="mission6.php">
+					<a class="thumbnail" href="mission4.php">
 						<span class="img">
 							<img src="assets/images/workbench.png" alt="">
 							<span class="cover"><span class="more">Plus d'Info &rarr;</span></span>

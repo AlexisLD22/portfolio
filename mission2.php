@@ -8,7 +8,7 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center title">
-        Traveau n°2
+        Travaux n°2
 		</h1>
 	</div>
     <?php require('pages/include/nav.php') ?>
