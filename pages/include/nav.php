@@ -32,7 +32,6 @@
                         <li><a href="mission5.php">Traveau n°5</a></li>
                         <li><a href="mission6.php">Traveau n°6</a></li>
                         <li><a href="mission7.php">Traveau n°7</a></li>
-                        <li><a href="mission8.php">Traveau n°8</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
