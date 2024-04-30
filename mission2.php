@@ -25,7 +25,7 @@
                     <h1 class="page-title">Gestion d'une Base de donnée avec PHP</h1>
                 </header>
 
-                <p><img src="assets/images/bdd.jpg" alt=""></p>
+                <p><img src="assets/images/bdd.jpg" alt="">d</p>
 
                 <h3>Description des tâches</h3>
                 <ul>
@@ -54,11 +54,11 @@
 
                 <h3>Annexes</h3>
                 <div style="margin: 30px 0px;">
-                    <a href="" class="gray-button" target="_blank">
+                    <a href="pma.alexisledoussal.fr" class="gray-button" target="_blank">
                         <span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333;">
-                            <i class="fa fa-github fa-2" style="color: white;"></i>
+                            <i class="fa fa-solid fa-paperclip" style="color: white;"></i>
                         </span>
-                        <span style="color: #333; margin-left: 10px; font-size: 15px;">Repository GitHub</span>
+                        <span style="color: #333; margin-left: 10px; font-size: 15px;">PHPMyAdmin</span>
                     </a>
                 </div>
             </article>
