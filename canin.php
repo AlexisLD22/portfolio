@@ -56,7 +56,7 @@
                 </ul>
 
                 <h3>Avec qui</h3>
-                <p>Traveau réalisés en mode projet, avec l'aide d'un camarade et de mon professeur</p>
+                <p>Travaux réalisés en mode projet, avec l'aide d'un camarade et de mon professeur</p>
 
                 <h3>Où</h3>
                 <p>
@@ -66,7 +66,15 @@
 
                 <h3>Annexes</h3>
                 <div style="margin: 30px 0px;">
-                    <a href="" class="gray-button" target="_blank">
+                    <a href="https://canin.alexisledoussal.fr" class="gray-button" target="_blank">
+                        <span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333;">
+                            <i class="fa fa-solid fa-paperclip" style="color: white;"></i>
+                        </span>
+                        <span style="color: #333; margin-left: 10px; font-size: 15px;">Site Web</span>
+                    </a>
+                </div>
+                <div style="margin: 30px 0px;">
+                    <a href="https://github.com/AlexisLD22/MDSProjectWeb" class="gray-button" target="_blank">
                         <span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333;">
                             <i class="fa fa-github fa-2" style="color: white;"></i>
                         </span>
@@ -77,7 +85,6 @@
             <!-- /Article -->
         </div>
     </div>	<!-- /container -->
-
 </main>
 
 

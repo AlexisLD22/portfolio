@@ -47,7 +47,7 @@
 				</ul>
 
 				<h3>Avec qui</h3>
-				<p>Traveau réalisés seul et avec l'aide de mon professeur ou de mes camarades</p>
+				<p>Travaux réalisés seul et avec l'aide de mon professeur ou de mes camarades</p>
 
 				<h3>Où</h3>
 				<p>
@@ -57,7 +57,7 @@
 
 				<h3>Annexes</h3>
 				<div style="margin: 30px 0px;">
-					<a href="" class="gray-button" target="_blank">
+					<a href="https://github.com/AlexisLD22/Calc_Electron" class="gray-button" target="_blank">
 						<span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333;">
 							<i class="fa fa-github fa-2" style="color: white;"></i>
 						</span>

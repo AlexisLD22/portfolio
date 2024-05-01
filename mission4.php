@@ -50,16 +50,6 @@
 					Effectué à : My Digital Shool Angers <br>
 					Service : Informatique et Développement Applicatif<br>
 				</p>
-
-				<h3>Annexes</h3>
-				<div style="margin: 30px 0px;">
-					<a href="" class="gray-button" target="_blank">
-						<span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333;">
-							<i class="fa fa-github fa-2" style="color: white;"></i>
-						</span>
-						<span style="color: #333; margin-left: 10px; font-size: 15px;">Repository GitHub</span>
-					</a>
-				</div>
 			</article>
 			<!-- /Article -->
 		</div>

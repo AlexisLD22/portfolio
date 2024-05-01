@@ -32,7 +32,7 @@
 
 			<article class="col-sm-8 maincontent">
 				<h3>Présentation</h3>
-				<p>Je m'appelle Alexis Le Doussal, et je suis passionné d'informatique depuis mon plus jeune âge c'était donc pour moi une évidence de me tourner dans l'informatique pour en faire mon métier. J'ai d'abord commencé en faisant un Bac Professionnel Système Numérique option Réseau Informatique et Système Communicant, que j'ai obtenus avec la mention "Bien". Ensuite, voulant pousser mon envie de créer, j'ai donc tout naturellement choisit un BTS SIO option SLAM pour découvrir ce monde du développement. Si vous voulez en savoir un peux plus sur mon parcours vous pouvez regarder mon CV ci-dessous.</p>
+				<p>Je m'appelle Alexis Le Doussal, et je suis passionné d'informatique depuis mon plus jeune âge c'était donc pour moi une évidence de me tourner dans l'informatique pour en faire mon métier. J'ai d'abord commencé en faisant un Bac Professionnel Système Numérique option Réseau Informatique et Système Communicant, que j'ai obtenu avec la mention "Bien". Ensuite, voulant pousser mon envie de créer, j'ai donc tout naturellement choisi un BTS SIO option SLAM pour découvrir ce monde du développement. Si vous voulez en savoir un peu plus sur mon parcours vous pouvez regarder mon CV ci-dessous.</p>
 				<div>
 					<a href="pages/CV Alexis Le Doussal 2024.pdf" download class="gray-button">
 						<span style="padding: 10px; border: 3px solid #333; border-radius: 0px; background-color: #333; border-radius: 2px;">

@@ -43,7 +43,7 @@
 				</ul>
 
 				<h3>Avec qui</h3>
-				<p>Traveau réalisés seul et avec de l'aide de mon tuteur</p>
+				<p>Travaux réalisés seul et avec de l'aide de mon tuteur</p>
 
 				<h3>Contexte</h3>
 				<p>

@@ -27,7 +27,7 @@
                 <li><a href='bts.php'>BTS</a></li>
                 <li><a href='entreprise.php'>Entreprise</a></li>
                 <li><a href='repertoire.php'>Répertoire</a></li>
-                <li><a href='veille.php'>Veille Technologique</a></li>
+                <li><a href='Veille.php'>Veille Technologique</a></li>
                 <li><a href='mention.php'>Mention Légal</a></li>
         </div>
 

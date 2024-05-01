@@ -25,7 +25,7 @@
                     <h1 class="page-title">Gestion d'une Base de donnée avec PHP</h1>
                 </header>
 
-                <p><img src="assets/images/bdd.jpg" alt="">d</p>
+                <p><img src="assets/images/bdd.jpg" alt=""></p>
 
                 <h3>Description des tâches</h3>
                 <ul>
