@@ -31,8 +31,8 @@
 				<h3>Description des tâches</h3>
 				<ul>
 					<li>Installation du framework DotNet</li>
-					<li>Ajouts des partie de code dans des fichiers spécifique</li>
-					<li>Programation de la fonction</li>
+					<li>Ajouts des parties de code dans des fichiers spécifiques</li>
+					<li>Programmation de la fonction</li>
 				</ul>
 
 				<h3>Moyens utilisés</h3>

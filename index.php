@@ -10,7 +10,7 @@
 			<img class="img-circle" src="assets/images/Portrait ALD.jpg" alt="">
 			<span class="title">Alexis Le Doussal</span>
 			<span class="tagline">Etudiant en BTS SIO Option SLAM<br>
-			<a href="">ledoussal.alexis@gmail.com</a></span>
+			<a href="mailto:#">ledoussal.alexis@gmail.com</a></span>
 		</h1>
 	</div>
 	<?php include('pages/include/nav.php') ?>
@@ -84,7 +84,7 @@
 							<img src="assets/images/bdd.jpg" alt="">
 							<span class="cover"><span class="more">Plus d'Info &rarr;</span></span>
 						</span>
-						<span class="title">Gestion d'une Base de donnée avec PHP</span>
+						<span class="title">Gestion d'une Base de données avec PHP</span>
 					</a>
 					<!-- <span class="details"><a href="">Web design</a> | <a href="">Wordpress</a></span> -->
 					<h4></h4>
@@ -97,7 +97,7 @@
 							<img src="assets/images/canin.png" alt="">
 							<span class="cover"><span class="more">Plus d'Info &rarr;</span></span>
 						</span>
-						<span class="title">Création d'un site pour utilisateur Toiletage Canin</span>
+						<span class="title">Création d'un site pour utilisateur Toilettage Canin</span>
 					</a>
 					<!-- <span class="details"><a href="">Web design</a> | <a href="">Logotype</a></span> -->
 					<h4></h4>
@@ -110,7 +110,7 @@
 							<img src="assets/images/ere.png" alt="">
 							<span class="cover"><span class="more">Plus d'Info &rarr;</span></span>
 						</span>
-						<span class="title">Calculatrice Immobilière transformer en client lourd</span>
+						<span class="title">Calculatrice Immobilière transformée en client lourd</span>
 					</a>
 					<!-- <span class="details"><a href="">Web design</a> | <a href="">Wordpress</a></span> -->
 					<h4></h4>
@@ -123,7 +123,7 @@
 							<img src="assets/images/workbench.png" alt="">
 							<span class="cover"><span class="more">Plus d'Info &rarr;</span></span>
 						</span>
-						<span class="title">Création d'une base de donnée avec workbench</span>
+						<span class="title">Création d'une base de données avec workbench</span>
 					</a>
 					<!-- <span class="details"><a href="">Web design</a> | <a href="">Logotype</a></span> -->
 					<h4></h4>
@@ -136,7 +136,7 @@
 							<img src="assets/images/docker.png" alt="">
 							<span class="cover"><span class="more">Plus d'Info &rarr;</span></span>
 						</span>
-						<span class="title">hébergement de deux site avec docker compose</span>
+						<span class="title">hébergement de deux sites avec docker compose</span>
 					</a>
 					<!-- <span class="details"><a href="">Web design</a> | <a href="">Logotype</a></span> -->
 					<h4></h4>

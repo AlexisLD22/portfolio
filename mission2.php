@@ -22,7 +22,7 @@
             <!-- Article main content -->
             <article class="col-sm-8 maincontent">
                 <header class="page-header">
-                    <h1 class="page-title">Gestion d'une Base de donnée avec PHP</h1>
+                    <h1 class="page-title">Gestion d'une Base de données avec PHP</h1>
                 </header>
 
                 <p><img src="assets/images/bdd.jpg" alt=""></p>

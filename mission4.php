@@ -22,7 +22,7 @@
 			<!-- Article main content -->
 			<article class="col-sm-8 maincontent">
 				<header class="page-header">
-					<h1 class="page-title">Création du base de donnée workbench</h1>
+					<h1 class="page-title">Création du base de données workbench</h1>
 				</header>
 
 				<p><img src="assets/images/workbench logo.png" alt=""></p>
@@ -31,7 +31,7 @@
 				<ul>
 					<li>Installation de Mysql Worckbench</li>
 					<li>Utilisation d'UML</li>
-					<li>Création d'une base de donnée fictif</li>
+					<li>Création d'une base de données fictif</li>
 					<li>Comprendre les liasons entre les différentes tables</li>
 				</ul>
 
