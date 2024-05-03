@@ -81,6 +81,22 @@
                         <span style="color: #333; margin-left: 10px; font-size: 15px;">Repository GitHub</span>
                     </a>
                 </div>
+                <div style="margin: 30px 0px;">
+                    <a href="pages/BDD canin.pdf" class="gray-button" target="_blank">
+                        <span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333;">
+                            <i class="fa fa-solid fa-paperclip" style="color: white;"></i>
+                        </span>
+                        <span style="color: #333; margin-left: 10px; font-size: 15px;">Base de donées workbench</span>
+                    </a>
+                </div>
+                <div style="margin: 30px 0px;">
+                    <a href="pages/diagramme contexte canin.pdf" class="gray-button" target="_blank">
+                        <span style="padding: 15px; border: 2px solid #333; border-radius: 0px; background-color: #333;">
+                            <i class="fa fa-solid fa-paperclip" style="color: white;"></i>
+                        </span>
+                        <span style="color: #333; margin-left: 10px; font-size: 15px;">UML</span>
+                    </a>
+                </div>
             </article>
             <!-- /Article -->
         </div>

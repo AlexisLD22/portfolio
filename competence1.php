@@ -69,7 +69,7 @@
                                 <img src="assets/images/canin.png" alt="">
                                 <span class="cover"><span class="more">Plus d'Info &rarr;</span></span>
                             </span>
-                            <span class="title">Création d'un site pour utilisateur Toiletage Canin</span>
+                            <span class="title">Création d'un site pour utilisateur Toilettage Canin</span>
                         </a>
                         <!-- <span class="details"><a href="">Web design</a> | <a href="">Logotype</a></span> -->
                         <h4></h4>

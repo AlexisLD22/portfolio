@@ -30,7 +30,7 @@
                 <h3>Description des tâches</h3>
                 <ul>
                     <li>Création d'un identifiant et mot de passe sur Php MyAdmin</li>
-                    <li>Création d'une table de donnée test</li>
+                    <li>Création d'une table de données test</li>
                     <li>Création des colonnes avec les différents paramètres (type, noms, etc...)</li>
                     <li>Test de la base via une requête sql test (Create, Delete and Select)</li>
                 </ul>
