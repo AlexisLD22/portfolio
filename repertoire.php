@@ -21,13 +21,13 @@
             <table class="table table-bordered">
                 <tbody>
                     <tr>
-                        <th>Traveau / Projet</th>
+                        <th>Travaux / Projet</th>
                         <th>Libelle</th>
                         <th>Compétences</th>
                         <th>Sous-compétences</th>
                     </tr>
                     <tr>
-                        <td><a href='mission1.php' class="btn btn-primary btn-custom">Traveau n°1</a></td>
+                        <td><a href='mission1.php' class="btn btn-primary btn-custom">Travaux n°1</a></td>
                         <td style='text-align:center;'>Maquette Html et CSS d'un site vitrine</td>
                         <td>
                             <ul>
@@ -52,7 +52,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td><a href='mission2.php' class="btn btn-primary btn-custom">Traveau n°2</a></td>
+                        <td><a href='mission2.php' class="btn btn-primary btn-custom">Travaux n°2</a></td>
                         <td>Gestion d'une Base de donnée avec PHP</td>
                         <td>
                             <ul>
@@ -77,7 +77,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td><a href='mission3.php' class="btn btn-primary btn-custom">Traveau n°3</a></td>
+                        <td><a href='mission3.php' class="btn btn-primary btn-custom">Travaux n°3</a></td>
                         <td>Site internet sur un docker compose dynamique</td>
                         <td>
                             <ul>
@@ -109,7 +109,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td><a href='mission4.php' class="btn btn-primary btn-custom">Traveau n°4</a></td>
+                        <td><a href='mission4.php' class="btn btn-primary btn-custom">Travaux n°4</a></td>
                         <td>Création du base de donnée workbench</td>
                         <td>
                             <ul>
@@ -134,7 +134,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td><a href='mission5.php' class="btn btn-primary btn-custom">Traveau n°5</a></td>
+                        <td><a href='mission5.php' class="btn btn-primary btn-custom">Travaux n°5</a></td>
                         <td>Petit programme en C#</td>
                         <td>
                             <ul>
@@ -160,7 +160,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td><a href='mission6.php' class="btn btn-primary btn-custom">Traveau n°6</a></td>
+                        <td><a href='mission6.php' class="btn btn-primary btn-custom">Travaux n°6</a></td>
                         <td>Nouvelle en-tête sur le site du l'entreprise</td>
                         <td>
                             <ul>
@@ -186,7 +186,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td><a href='mission7.php' class="btn btn-primary btn-custom">Traveau n°7</a></td>
+                        <td><a href='mission7.php' class="btn btn-primary btn-custom">Travaux n°7</a></td>
                         <td>Fonction en C# avec le framework DotNet</td>
                         <td>
                             <ul>
