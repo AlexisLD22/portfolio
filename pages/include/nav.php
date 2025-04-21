@@ -8,7 +8,7 @@
         <div class="navbar-collapse collapse">
             
             <ul class="nav navbar-nav">
-                <li class="active"><a href="index.php">Home</a></li>
+                <li class="active"><a href="index.html">Home</a></li>
                 <li><a href="bts.php">BTS</a></li>
                 <li><a href="entreprise.php">Entreprise</a></li>
                 <!-- <li><a href="about.php">About</a></li> -->
